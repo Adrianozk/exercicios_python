@@ -2,11 +2,11 @@
 
 Resoluções produzidas durante o curso de Python do [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-).
 
-> **Contexto:** repositório de estudo concluído em 2021. Ele registra minha prática dos fundamentos da linguagem e foi preservado como histórico de aprendizado, não como uma aplicação de produção.
+> **Contexto:** repositório de estudo contínuo, iniciado em 2021 e mantido para registrar minha evolução ao longo dos módulos do curso. Novas etapas e exercícios serão incorporados conforme eu avançar no conteúdo.
 
 ## Conteúdo
 
-O repositório reúne **107 exercícios**, numerados de `ex000.py` a `ex106.py`, acompanhados pelos enunciados utilizados durante o curso.
+O repositório reúne atualmente **107 exercícios**, numerados de `ex000.py` a `ex106.py`, acompanhados pelos enunciados utilizados durante o curso.
 
 Ao longo da sequência são praticados temas como:
 
@@ -44,6 +44,6 @@ A maioria dos exercícios é interativa e solicitará valores pelo terminal.
 
 ## Observações
 
-- As soluções foram mantidas próximas ao estado original do período de estudo.
+- As soluções são mantidas próximas ao estado em que foram produzidas em cada etapa do aprendizado.
 - Cada arquivo é independente e pode ser executado separadamente.
 - Alguns exercícios utilizam cores ANSI, áudio ou recursos específicos do terminal.
